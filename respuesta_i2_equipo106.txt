@@ -1,0 +1,7 @@
+nombre y apellido de los participantes:
+ivan Gonzalo guzzo
+Ezequiel leon gonzalez
+
+BETA
+C: si siempre y cuando el repositorio de ALFA sea el original. 
+D: no se pierden mientras no quieras eliminarlos.
