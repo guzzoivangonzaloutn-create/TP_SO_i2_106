@@ -1,7 +1,17 @@
-nombre y apellido de los participantes:
-ivan Gonzalo guzzo
-Ezequiel leon gonzalez
+Nombre y Apellido de los participantes:
+Ivan Gonzalo Guzzo
+Ezequiel Leon Gonzalez
 
-BETA
+BETA:
 C: si siempre y cuando el repositorio de ALFA sea el original. 
 D: no se pierden mientras no quieras eliminarlos.
+
+ALFA:
+E: 
+1- Beta usa el git add . para agregar el archivo fork.txt, después usa el git commit -m "..." y luego el git push para que los demás integrantes vean los cambios.
+2- Gamma usa el Git clone -Link del repo- para tener el repo en su pc y hace los cambios necesarios.
+3- Alfa usa el Git clone -Link del repo- para tener el repo en su pc y hace los cambios necesarios.
+4- Beta usa también el git clone -Link del repo- y agrega el archivo nuevodato.txt, que luego debería hacer nuevamente el git add . para agregarlo después el git commit -m "..." y luego el git push.
+5- Después GAMMA Y ALFA tendrían que usar el git pull para actualizar sus repos locales con los cambios que hizo BETA
+6- BETA debe crear el archivo "respuesta_I2_Equipo106" y para que los demás vean los cambios debería usar el git add . después usa el git commit -m "..." y luego el git push
+7- Después cada uno agrega las respuestas que les toca y usan nuevamente el git add. el git commit -m "..." y el git push
